@@ -272,7 +272,7 @@ function myToString() {
   document.getElementById("tostring").innerHTML = n;
 }
 
-function myMAx() {
+function myMax() {
   document.getElementById("max").innerHTML = Number.MAX_VALUE;
 }
 
